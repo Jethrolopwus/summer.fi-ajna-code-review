@@ -15,7 +15,10 @@
 1.1. Disclaimer  
 1.2. About Me  
 1.3. Skills  
-1.4. System Overview  
+1.4. Scope
+1.5. Contract Overview 
+1.6. Contract Review
+
 
 ---
 
